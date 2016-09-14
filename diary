@@ -1,0 +1,2174 @@
+
+ans =
+
+     0
+
+
+ans =
+
+     1
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     1
+
+
+ans =
+
+     0     0     0     1     1
+
+
+ans =
+
+     0     0     1     0     0
+
+
+A =
+
+     1     2     3     4     5
+
+
+B =
+
+     5     4     3     2     1
+
+
+ans =
+
+     0     0     0     1     1
+
+
+ans =
+
+     0     0     1     0     0
+
+
+ans =
+
+     0     0     1     0     0
+
+
+ans =
+
+     0     0     0     1     1
+
+{Undefined function or variable 'A'.
+} 
+{Undefined function or variable 'A'.
+} 
+
+A =
+
+     1     2     3     4     5
+
+
+B =
+
+     5     4     3     2     1
+
+
+A =
+
+     1     2     3     4     5
+
+
+B =
+
+     5     4     3     2     1
+
+
+idx =
+
+     4     5
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('eq')" style="font-weight:bold"> == </a>
+Matrix dimensions must agree.
+} 
+
+ans =
+
+     0     0     0     1     0
+
+
+ans =
+
+     0     0     0     1     0
+
+help clc
+ <strong>clc</strong>    Clear command window.
+    <strong>clc</strong> clears the command window and homes the cursor.
+ 
+    See also <a href="matlab:help home">home</a>.
+
+    <a href="matlab:doc clc">Reference page for clc</a>
+
+
+idx =
+
+     1     4     5
+
+
+A =
+
+     1     2     3     4     5
+
+
+B =
+
+     5     4     3     2     1
+
+
+idx =
+
+     1     4     5
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     0
+
+
+ans =
+
+     5     2     1
+
+
+myString =
+
+Josh
+
+
+ans =
+
+     0
+
+
+ans =
+
+     5     2     1
+
+
+myString =
+
+Josh
+
+
+ans =
+
+     0
+
+
+A =
+
+     1     2     3     4     5
+
+
+B =
+
+     5     4     3     2     1
+
+
+idx =
+
+     1     4     5
+
+
+C =
+
+    7.1000
+
+
+C =
+
+    4.0000
+
+
+C =
+
+    6.1000
+
+
+C =
+
+   15.4000
+
+
+C =
+
+    6.1000
+
+
+C =
+
+    6.1000
+
+Enter a number: 1
+
+n =
+
+     1
+
+one
+diary off
+help variable types
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('help', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\helptools\help.m', 45)" style="font-weight:bold">help</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\helptools\help.m',45,0)">line 45</a>)
+Help only supports one topic
+} 
+help variables
+
+variables not found.
+
+Use the Help browser search field to <a href="matlab:docsearch variables">search the documentation</a>, or
+type "<a href="matlab:help help">help help</a>" for help command options, such as help for methods.
+
+docsearch variables
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evalin')" style="font-weight:bold">evalin</a>
+Undefined function 'GEOS397' for input arguments of type 'char'.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evalin')" style="font-weight:bold">evalin</a>
+Undefined function 'GEOS397' for input arguments of type 'char'.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)
+opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)
+opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)
+matlab.internal.language.introspective.errorDocCallback('evalin')
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('publish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p', 144)" style="font-weight:bold">publish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\publish.p',144,0)">line 144</a>)
+The output file "H:\Classes\GEOS597\GEOS397\html\GEOS397 HW1 Enterkine.pdf" is not writable.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mdbpublish', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m', 55)" style="font-weight:bold">mdbpublish</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\codetools\mdbpublish.m',55,0)">line 55</a>)
+outputPath = publish(file, options);
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m',68,0)">line 68</a>)
+NAME must contain a single string.
+} 
+matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\open.m', 68)
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evalin')" style="font-weight:bold">evalin</a>
+Undefined function 'GEOS397' for input arguments of type 'char'.
+
+help clock
+ <strong>clock</strong>  Current date and time as date vector.
+    C = <strong>clock</strong> returns a six element date vector containing the current time
+    and date in decimal form:
+  
+       [year month day hour minute seconds]
+  
+    The sixth element of the date vector output (seconds) is accurate to
+    several digits beyond the decimal point. FIX(<strong>clock</strong>) rounds to integer
+    display format.
+ 
+    Note: When timing the duration of an event, use the TIC and TOC
+    functions instead of <strong>clock</strong> or ETIME. These latter two functions are
+    based on the system time which can be adjusted periodically by the
+    operating system and thus might not be reliable in time comparison
+    operations.
+ 
+    See also <a href="matlab:help datevec">datevec</a>, <a href="matlab:help datenum">datenum</a>, <a href="matlab:help now">now</a>, <a href="matlab:help etime">etime</a>, <a href="matlab:help tic">tic</a>, <a href="matlab:help toc">toc</a>, <a href="matlab:help cputime">cputime</a>.
+
+    <a href="matlab:doc clock">Reference page for clock</a>
+
+C = clock
+
+C =
+
+   1.0e+03 *
+
+    2.0160    0.0090    0.0060    0.0090    0.0590    0.0400
+
+C = clock
+
+C =
+
+   1.0e+03 *
+
+    2.0160    0.0090    0.0060    0.0090    0.0590    0.0429
+
+C = clock
+
+C =
+
+   1.0e+03 *
+
+    2.0160    0.0090    0.0060    0.0090    0.0590    0.0453
+
+
+ans =
+
+     1     6
+
+doc clock
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+istype(time)
+{Undefined function or variable 'istype'.
+} 
+type(time)
+{Undefined function 'type' for input arguments of type 'double'.
+} 
+help type
+ <strong>type</strong> List program file.
+    <strong>type</strong> foo.bar lists the ascii file called 'foo.bar'.
+    <strong>type</strong> foo lists the ascii file called 'foo.m'. 
+ 
+    If files called foo and foo.m both exist, then
+       <strong>type</strong> foo lists the file 'foo', and
+       <strong>type</strong> foo.m lists the file 'foo.m'.
+ 
+    <strong>type</strong> PATHNAME/FUN lists the contents of FUN (or FUN.m) 
+    given a full pathname or a MATLABPATH relative partial 
+    pathname (see PARTIALPATH).
+ 
+    See also <a href="matlab:help dbtype">dbtype</a>, <a href="matlab:help which">which</a>, <a href="matlab:help help">help</a>, <a href="matlab:help partialpath">partialpath</a>, <a href="matlab:help more">more</a>.
+
+    <a href="matlab:doc type">Reference page for type</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('type')">Other functions named type</a>
+
+help which
+ <strong>which</strong>  Locate functions and files.
+    <strong>which</strong> ITEM displays the full path for ITEM.
+  
+    If ITEM is a MATLAB function in an M or P file, or a Simulink model
+    in an SLX or MDL file, then <strong>which</strong> displays the full path for the
+    corresponding file. ITEM must be on the MATLAB path.
+  
+    If ITEM is a method in a loaded Java class, then <strong>which</strong> displays the
+    package, class, and method name for that method.
+  
+    If ITEM is a workspace variable, then <strong>which</strong> displays a message
+    identifying ITEM as a variable.
+  
+    If ITEM is a file name including the extension, and it is in the
+    current working folder or on the MATLAB path then <strong>which</strong> displays the
+    full path of ITEM.
+  
+    If ITEM is an overloaded function or method, then <strong>which</strong> ITEM returns
+    only the path of the first function or method found.
+  
+    <strong>which</strong> FUN1 in FUN2 displays the path to function FUN1 that is called by
+    file FUN2. Use this syntax to determine whether a local function is
+    being called instead of a function on the path. This syntax does not
+    locate nested functions.
+  
+    <strong>which</strong> ___ -ALL displays the paths to all items on the MATLAB path with
+    the requested name. Such items include methods of instantiated classes.
+    You can use -ALL with the input arguments of any of the previous
+    syntaxes.
+  
+    S = <strong>which</strong>(ITEM) returns the full path for ITEM in the string, S.
+  
+    S = <strong>which</strong>(FUN1,'IN',FUN2) returns the path to function FUN1 that is
+    called by file FUN2. Use this syntax to determine whether a local
+    function is being called instead of a function on the path. This syntax
+    does not locate nested functions.
+  
+    S = <strong>which</strong>(___,'-ALL') returns the results of <strong>which</strong> in the string or
+    cell array of strings, S. You can use this syntax with any of the input
+    arguments in the previous syntax group. Each row of cell array S
+    identifies a function. The functions are in order of precedence, unless
+    they are shadowed. Among shadowed functions, you should not rely on the
+    order of the functions in S.
+   
+    For more information about function precedence order, see the MATLAB
+    documentation.
+  
+    See also <a href="matlab:help dir">dir</a>, <a href="matlab:help help">help</a>, <a href="matlab:help who">who</a>, <a href="matlab:help what">what</a>, <a href="matlab:help exist">exist</a>, <a href="matlab:help lookfor">lookfor</a>, <a href="matlab:help fileparts">fileparts</a>, <a href="matlab:help mfilename">mfilename</a>,
+    <a href="matlab:help path">path</a>, <a href="matlab:help type">type</a>
+ 
+    Copyright 1984-2015 The MathWorks, Inc. Built-in function.
+
+    <a href="matlab:doc which">Reference page for which</a>
+
+clear
+clc
+time(3)
+{Undefined function or variable 'time'.
+} 
+time
+{Undefined function or variable 'time'.
+} 
+time
+{Undefined function or variable 'time'.
+} 
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+whos
+  Name      Size            Bytes  Class      Attributes
+
+  ans       1x1                 1  logical              
+  time      1x6                48  double               
+
+help datestr
+ <strong>datestr</strong> String representation of date.
+    S = <strong>datestr</strong>(V) converts one or more date vectors V to date strings S.
+    Input V must be an M-by-6 matrix containing M full (six-element) date
+    vectors. Each element of V must be a positive double-precision number.
+    <strong>datestr</strong> returns a column vector of M date strings, where M is the total
+    number of date vectors in V. 
+ 
+    S = <strong>datestr</strong>(N) converts one or more serial date numbers N to date
+    strings S. Input argument N can be a scalar, vector, or
+    multidimensional array of positive double-precision numbers. <strong>datestr</strong>
+    returns a column vector of M date strings, where M is the total number
+    of date numbers in N. 
+ 
+    S = <strong>datestr</strong>(D, F) converts one or more date vectors, serial date
+    numbers, or date strings D into the same number of date strings S.
+    Input argument F is a format number or string that determines the
+    format of the date string output. Valid values for F are given in Table
+    1, below. Input F may also contain a free-form date format string
+    consisting of format tokens as shown in Table 2, below. 
+ 
+    Date strings with 2-character years are interpreted to be within the
+    100 years centered around the current year. 
+ 
+    S = <strong>datestr</strong>(S1, F, P) converts date string S1 to date string S,
+    applying format F to the output string, and using pivot year P as the
+    starting year of the 100-year range in which a two-character year
+    resides. The default pivot year is the current year minus 50 years.
+    F = -1 uses the default format.
+ 
+ 	S = <strong>datestr</strong>(...,'local') returns the string in a localized format. The
+ 	default (which can be called with 'en_US') is US English. This argument 
+ 	must come last in the argument sequence.
+ 
+ 	Note:  The vectorized calling syntax can offer significant performance
+ 	improvement for large arrays.
+ 
+ 	Table 1: Standard MATLAB Date format definitions
+ 
+    Number           String                   Example
+    ===========================================================================
+       0             'dd-mmm-yyyy HH:MM:SS'   01-Mar-2000 15:45:17 
+       1             'dd-mmm-yyyy'            01-Mar-2000  
+       2             'mm/dd/yy'               03/01/00     
+       3             'mmm'                    Mar          
+       4             'm'                      M            
+       5             'mm'                     03            
+       6             'mm/dd'                  03/01        
+       7             'dd'                     01            
+       8             'ddd'                    Wed          
+       9             'd'                      W            
+      10             'yyyy'                   2000         
+      11             'yy'                     00           
+      12             'mmmyy'                  Mar00        
+      13             'HH:MM:SS'               15:45:17     
+      14             'HH:MM:SS PM'             3:45:17 PM  
+      15             'HH:MM'                  15:45        
+      16             'HH:MM PM'                3:45 PM     
+      17             'QQ-YY'                  Q1-96        
+      18             'QQ'                     Q1           
+      19             'dd/mm'                  01/03        
+      20             'dd/mm/yy'               01/03/00     
+      21             'mmm.dd,yyyy HH:MM:SS'   Mar.01,2000 15:45:17 
+      22             'mmm.dd,yyyy'            Mar.01,2000  
+      23             'mm/dd/yyyy'             03/01/2000 
+      24             'dd/mm/yyyy'             01/03/2000 
+      25             'yy/mm/dd'               00/03/01 
+      26             'yyyy/mm/dd'             2000/03/01 
+      27             'QQ-YYYY'                Q1-1996        
+      28             'mmmyyyy'                Mar2000        
+      29 (ISO 8601)  'yyyy-mm-dd'             2000-03-01
+      30 (ISO 8601)  'yyyymmddTHHMMSS'        20000301T154517 
+      31             'yyyy-mm-dd HH:MM:SS'    2000-03-01 15:45:17 
+ 
+    Table 2: Date format symbolic identifiers (Examples are in US English)
+    
+    Symbol  Interpretation of format symbol
+    ===========================================================================
+    yyyy    full year, e.g. 1990, 2000, 2002
+    yy      partial year, e.g. 90, 00, 02
+    mmmm    full name of the month, according to the calendar locale, e.g.
+            "March", "April". 
+    mmm     first three letters of the month, according to the calendar 
+            locale, e.g. "Mar", "Apr". 
+    mm      numeric month of year, padded with leading zeros, e.g. ../03/..
+            or ../12/.. 
+    m       capitalized first letter of the month, according to the
+            calendar locale; for backwards compatibility. 
+    dddd    full name of the weekday, according to the calendar locale, e.g.
+            "Monday", "Tuesday". 
+    ddd     first three letters of the weekday, according to the calendar
+            locale, e.g. "Mon", "Tue". 
+    dd      numeric day of the month, padded with leading zeros, e.g. 
+            05/../.. or 20/../.. 
+    d       capitalized first letter of the weekday; for backwards 
+            compatibility
+    HH      hour of the day, according to the time format. In case the time
+            format AM | PM is set, HH does not pad with leading zeros. In 
+            case AM | PM is not set, display the hour of the day, padded 
+            with leading zeros. e.g 10:20 PM, which is equivalent to 22:20; 
+            9:00 AM, which is equivalent to 09:00.
+    MM      minutes of the hour, padded with leading zeros, e.g. 10:15, 
+            10:05, 10:05 AM.
+    SS      second of the minute, padded with leading zeros, e.g. 10:15:30,
+            10:05:30, 10:05:30 AM. 
+    FFF     milliseconds field, padded with leading zeros, e.g.
+            10:15:30.015.
+    PM      insert AM or PM in date string
+ 
+    Examples:
+ 	<strong>datestr</strong>(now) returns '24-Jan-2003 11:58:15' for that particular date,
+ 	on an US English locale <strong>datestr</strong>(now,2) returns 01/24/03, the same as
+ 	for <strong>datestr</strong>(now,'mm/dd/yy') <strong>datestr</strong>(now,'dd.mm.yyyy') returns
+ 	24.01.2003 To convert a non-standard date form into a standard MATLAB
+ 	dateform, first convert the non-standard date form to a date number,
+ 	using DATENUM, for example, 
+ 	<strong>datestr</strong>(DATENUM('24.01.2003','dd.mm.yyyy'),2) returns 01/24/03.
+ 
+ 	See also <a href="matlab:help date">date</a>, <a href="matlab:help datenum">datenum</a>, <a href="matlab:help datevec">datevec</a>, <a href="matlab:help datetick">datetick</a>.
+
+    <a href="matlab:doc datestr">Reference page for datestr</a>
+
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+{Subscript indices must either be real positive integers or logicals.
+} 
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+{Subscript indices must either be real positive integers or logicals.
+} 
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+{Subscript indices must either be real positive integers or logicals.
+} 
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+
+yearString =
+
+2016
+
+help save
+ <strong>save</strong> Save workspace variables to file. 
+    <strong>save</strong>(FILENAME) stores all variables from the current workspace in a
+    MATLAB formatted binary file (MAT-file) called FILENAME.
+ 
+    <strong>save</strong>(FILENAME,VARIABLES) stores only the specified variables.
+ 
+    <strong>save</strong>(FILENAME,'-struct',STRUCTNAME,FIELDNAMES) stores the fields of the
+    specified scalar structure as individual variables in the file. If you 
+    include the optional FIELDNAMES, the <strong>save</strong> function stores only the
+    specified fields of the structure.  You cannot specify VARIABLES and 
+    the '-struct' keyword in the same call to <strong>save</strong>.
+ 
+    <strong>save</strong>(FILENAME, ..., '-append') adds new variables to an existing file.
+    You can specify '-append' with additional inputs such as VARIABLES,
+    '-struct', FORMAT, or VERSION.
+ 
+    <strong>save</strong>(FILENAME, ..., FORMAT) saves in the specified format: '-mat' or
+    '-ascii'.
+    You can specify FORMAT with additional inputs such as VARIABLES,
+    '-struct', '-append', or VERSION.
+ 
+    <strong>save</strong>(FILENAME, ..., VERSION) saves to MAT-files in the specified
+    version: '-v4', '-v6', '-v7', or '-v7.3'.
+    You can specify VERSION with additional inputs such as VARIABLES,
+    '-struct', '-append', or FORMAT.
+ 
+    <strong>save</strong> FILENAME ... is the command form of the syntax, for convenient 
+    saving from the command line.  With command syntax, you do not need to
+    enclose strings in single quotation marks.  Separate inputs with spaces
+    instead of commas.  Do not use command syntax if inputs such as 
+    FILENAME are variables.
+ 
+    Inputs:
+ 
+    FILENAME: If you do not specify FILENAME, the <strong>save</strong> function saves to a
+    file named matlab.mat.  If FILENAME does not include an extension and 
+    the value of format is '-mat' (the default), MATLAB appends .mat. If 
+    filename does not include a full path, MATLAB saves in the current
+    folder. You must have permission to write to the file.
+ 
+    VARIABLES:  Save only selected variables from the workspace.
+    Use one of the following forms:
+ 
+        V1, V2, ...              Save the listed variables. Use the '*'
+                                 wildcard to match patterns.  For example,
+                                 save('A*') saves all variables that start
+                                 with A.
+        '-regexp', EXPRESSIONS   Save only the variables that match the
+                                 specified regular expressions. <strong>save</strong> treats
+                                 all inputs as regular expressions except
+                                 the optional FILENAME and STRUCTNAME.  The
+                                 FILENAME input must appear first.  For
+                                 more information on regular expressions,
+                                 type "doc regexp" at the command prompt.
+ 
+    '-struct', STRUCTNAME, FIELDNAMES:  Save the fields of a scalar
+    structure as individual variables in the file.  FIELDNAMES is optional; 
+    specify to save only selected fields.  FIELDNAMES use the same forms as
+    VARIABLES.
+ 
+    '-append': Add data to an existing file.  For MAT-files, '-append' adds
+    new variables to the file or replaces the saved values of existing
+    variables with values in the workspace.  For ASCII files, '-append'
+    adds data to the end of the file.
+ 
+    FORMAT: Specify the format of the file, regardless of any specified
+    extension.  Use one of the following combinations:
+ 
+        '-mat'                        Binary MAT-file format (default).
+        '-ascii'                      8-digit ASCII format.
+        '-ascii', '-tabs'             Tab-delimited 8-digit ASCII format.
+        '-ascii', '-double'           16-digit ASCII format.
+        '-ascii', '-double', '-tabs'  Tab-delimited 16-digit ASCII format.
+ 
+        For ASCII file formats, the <strong>save</strong> function has the following
+        limitations:
+        * Each variable must be a two-dimensional double or char array.
+        * MATLAB translates characters to their corresponding internal
+          ASCII codes.  For example, 'abc' appears in an ASCII file as:
+              9.7000000e+001  9.8000000e+001  9.9000000e+001
+        * The output includes only the real component of complex numbers.
+        * If you plan to use the LOAD function to read the file, all
+          variables must have the same number of columns.
+ 
+    VERSION: Create a MAT-file that you can load into an earlier version of
+    MATLAB or that supports specific features.  The following table shows 
+    the available MAT-file version options and the corresponding supported
+    features.
+ 
+             | Can Load in  |
+    Option   | Versions     | Supported Features
+    ---------+--------------+----------------------------------------------
+    '-v7.3'  | 7.3 or later | Version 7.0 features plus support for
+             |              | data items greater than or equal to 2GB on
+             |              | 64-bit systems
+    ---------+--------------+----------------------------------------------
+    '-v7'    | 7.0 or later | Version 6 features plus data compression and
+             |              | Unicode character encoding
+    ---------+--------------+----------------------------------------------
+    '-v6'    | 5 or later   | Version 4 features plus N-dimensional arrays,
+             |              | cell and structure arrays, and variable names
+             |              | greater than 19 characters
+    ---------+--------------+----------------------------------------------
+    '-v4'    | all          | Two-dimensional double, character, and
+             |              | sparse arrays
+ 
+    If any data items require features that the specified version does not
+    support, MATLAB does not save those items and issues a warning. You 
+    cannot specify a version later than your version of MATLAB software.
+ 
+    To view or set the default version for MAT-files, select
+    File > Preferences > General > MAT-Files.
+ 
+    Examples:
+ 
+    % Save all variables from the workspace to test.mat:
+    save test.mat
+ 
+    % Save two variables, where FILENAME is a variable:
+    savefile = 'pqfile.mat';
+    p = rand(1, 10);
+    q = ones(10);
+    save(savefile, 'p', 'q');
+ 
+    % Save the fields of a structure as individual variables:
+    s1.a = 12.7;
+    s1.b = {'abc', [4 5; 6 7]};
+    s1.c = 'Hello!';
+    save('newstruct.mat', '-struct', 's1');
+ 
+    % Save variables whose names contain digits:
+    save myfile.mat -regexp \d
+ 
+    See also <a href="matlab:help load">load</a>, <a href="matlab:help matfile">matfile</a>, <a href="matlab:help whos">whos</a>, <a href="matlab:help regexp">regexp</a>, <a href="matlab:help hgsave">hgsave</a>, <a href="matlab:help saveas">saveas</a>, <a href="matlab:help workspace">workspace</a>, <a href="matlab:help clear">clear</a>.
+
+    <a href="matlab:doc save">Reference page for save</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('save')">Other functions named save</a>
+
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+
+yearString =
+
+2016
+
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+
+yearString =
+
+2016
+
+load('HW2part1.mat')
+
+ans =
+
+     1     6
+
+
+ans =
+
+     1
+
+
+yearString =
+
+2016
+
+
+savefile =
+
+HW2part1specific.mat
+
+load('HW2part1specific.mat')
+whos
+  Name            Size            Bytes  Class      Attributes
+
+  ans             1x1                 1  logical              
+  savefile        1x20               40  char                 
+  time            1x6                48  double               
+  yearString      1x4                 8  char                 
+
+help load
+ <strong>load</strong> Load data from MAT-file into workspace.
+    S = <strong>load</strong>(FILENAME) loads the variables from a MAT-file into a structure
+    array, or data from an ASCII file into a double-precision array.
+ 
+    S = <strong>load</strong>(FILENAME, VARIABLES) loads only the specified variables from a
+    MAT-file.  VARIABLES use one of the following forms:
+ 
+        VAR1, VAR2, ...          Load the listed variables.  Use the '*'
+                                 wildcard to match patterns.  For
+                                 example, load('A*') loads all variables
+                                 that start with A.
+        '-regexp', EXPRESSIONS   Load only the variables that match the
+                                 specified regular expressions.  For more
+                                 information on regular expressions, type
+                                 "doc regexp" at the command prompt.
+ 
+    S = <strong>load</strong>(FILENAME, '-mat', VARIABLES) forces <strong>load</strong> to treat the file as
+    a MAT-file, regardless of the extension.  Specifying VARIABLES is
+    optional.
+ 
+    S = <strong>load</strong>(FILENAME, '-ascii') forces <strong>load</strong> to treat the file as an ASCII
+    file, regardless of the extension.
+ 
+    <strong>load</strong>(...) loads without combining MAT-file variables into a structure
+    array.
+ 
+    <strong>load</strong> ... is the command form of the syntax, for convenient loading from
+    the command line. With command syntax, you do not need to enclose input
+    strings in single quotation marks. Separate inputs with spaces instead 
+    of commas. Do not use command syntax if FILENAME is a variable.
+    
+    Notes:
+ 
+    If you do not specify FILENAME, the <strong>load</strong> function searches for a file
+    named matlab.mat.
+ 
+    ASCII files must contain a rectangular table of numbers, with an equal
+    number of elements in each row.  The file delimiter (character between
+    each element in a row) can be a blank, comma, semicolon, or tab.  The
+    file can contain MATLAB comments.
+ 
+    Examples:
+ 
+        gongStruct = load('gong.mat')      % All variables
+        load('handel.mat', 'y')            % Only variable y
+        load('accidents.mat', 'hwy*')      % Variables starting with "hwy"
+        load('topo.mat', '-regexp', '\d')  % Variables containing digits
+ 
+        % Using command form
+        load gong.mat
+        load topo.mat -regexp \d
+        load 'hypothetical file.mat'       % Filename with spaces
+ 
+    See also <a href="matlab:help save">save</a>, <a href="matlab:help matfile">matfile</a>, <a href="matlab:help whos">whos</a>, <a href="matlab:help clear">clear</a>, <a href="matlab:help regexp">regexp</a>, <a href="matlab:help importdata">importdata</a>, <a href="matlab:help uiimport">uiimport</a>.
+
+    <a href="matlab:doc load">Reference page for load</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('load')">Other functions named load</a>
+
+help clear
+ <strong>clear</strong>  Clear variables and functions from memory.
+    <strong>clear</strong> removes all variables from the workspace.
+    <strong>clear</strong> VARIABLES does the same thing.
+    <strong>clear</strong> GLOBAL removes all global variables.
+    <strong>clear</strong> FUNCTIONS removes all compiled MATLAB and MEX-functions.
+    Calling <strong>clear</strong> FUNCTIONS decreases code performance and is usually unnecessary.
+    For more information, see the clear Reference page.
+ 
+    <strong>clear</strong> ALL removes all variables, globals, functions and MEX links.
+    <strong>clear</strong> ALL at the command prompt also clears the base import list.
+    Calling <strong>clear</strong> ALL decreases code performance and is usually unnecessary.
+    For more information, see the clear Reference page.
+ 
+    <strong>clear</strong> IMPORT clears the base import list.  It can only be issued at the 
+    command prompt. It cannot be used in a function.
+ 
+    <strong>clear</strong> CLASSES is the same as <strong>clear</strong> ALL except that class definitions
+    are also cleared. If any objects exist outside the workspace (say in 
+    userdata or persistent in a locked program file) a warning will be
+    issued and the class definition will not be cleared.
+    Calling <strong>clear</strong> CLASSES decreases code performance and is usually unnecessary.
+    If you modify a class definition, MATLAB automatically updates it.
+    For more information, see the clear Reference page.
+ 
+    <strong>clear</strong> JAVA is the same as <strong>clear</strong> ALL except that java classes on the
+    dynamic java path (defined using JAVACLASSPATH) are also cleared. 
+ 
+    <strong>clear</strong> VAR1 VAR2 ... clears the variables specified. The wildcard
+    character '*' can be used to clear variables that match a pattern. For
+    instance, <strong>clear</strong> X* clears all the variables in the current workspace
+    that start with X.
+ 
+    <strong>clear</strong> -REGEXP PAT1 PAT2 can be used to match all patterns using regular
+    expressions. This option only clears variables. For more information on
+    using regular expressions, type "doc regexp" at the command prompt.
+ 
+    If X is global, <strong>clear</strong> X removes X from the current workspace, but
+    leaves it accessible to any functions declaring it global. 
+    <strong>clear</strong> GLOBAL -REGEXP PAT removes global variables that match regular
+    expression patterns.
+    Note that to clear specific global variables, the GLOBAL option must
+    come first. Otherwise, all global variables will be cleared.
+ 
+    <strong>clear</strong> FUN clears the function specified. If FUN has been locked by
+    MLOCK it will remain in memory. If FUN is a script or function that 
+    is currently executing, then it is not cleared. Use a partial path 
+    (see PARTIALPATH) to distinguish between different overloaded versions 
+    of FUN.  For instance, 'clear inline/display' clears only the INLINE 
+    method for DISPLAY, leaving any other implementations in memory.
+ 
+    Use the functional form of <strong>clear</strong>, such as <strong>clear</strong>('name'), when the
+    variable name or function name is stored in a string.
+ 
+    Examples for pattern matching:
+        clear a*                % Clear variables starting with "a"
+        clear -regexp ^b\d{3}$  % Clear variables starting with "b" and
+                                %    followed by 3 digits
+        clear -regexp \d        % Clear variables containing any digits
+ 
+    See also <a href="matlab:help clearvars">clearvars</a>, <a href="matlab:help who">who</a>, <a href="matlab:help whos">whos</a>, <a href="matlab:help mlock">mlock</a>, <a href="matlab:help munlock">munlock</a>, <a href="matlab:help persistent">persistent</a>, <a href="matlab:help import">import</a>.
+
+    <a href="matlab:doc clear">Reference page for clear</a>
+
+help clc
+ <strong>clc</strong>    Clear command window.
+    <strong>clc</strong> clears the command window and homes the cursor.
+ 
+    See also <a href="matlab:help home">home</a>.
+
+    <a href="matlab:doc clc">Reference page for clc</a>
+
+clc
+help linespace
+--- help for <strong>linspace</strong> ---
+
+ <strong>linspace</strong> Linearly spaced vector.
+    <strong>linspace</strong>(X1, X2) generates a row vector of 100 linearly
+    equally spaced points between X1 and X2.
+ 
+    <strong>linspace</strong>(X1, X2, N) generates N points between X1 and X2.
+    For N = 1, <strong>linspace</strong> returns X2.
+ 
+    Class support for inputs X1,X2:
+       float: double, single
+ 
+    See also <a href="matlab:help logspace">logspace</a>, <a href="matlab:help colon">colon</a>.
+
+    <a href="matlab:doc linspace">Reference page for linspace</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('linspace')">Other functions named linspace</a>
+
+
+tMin =
+
+     0
+
+
+tMax =
+
+     1
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+tArray =
+
+   Empty matrix: 1-by-0
+
+doc linspace
+
+tArray =
+
+  Columns 1 through 13
+
+         0    0.0010    0.0020    0.0030    0.0040    0.0050    0.0060    0.0070    0.0080    0.0090    0.0100    0.0110    0.0120
+
+  Columns 14 through 26
+
+    0.0130    0.0140    0.0150    0.0160    0.0170    0.0180    0.0190    0.0200    0.0210    0.0220    0.0230    0.0240    0.0250
+
+  Columns 27 through 39
+
+    0.0260    0.0270    0.0280    0.0290    0.0300    0.0310    0.0320    0.0330    0.0340    0.0350    0.0360    0.0370    0.0380
+
+  Columns 40 through 52
+
+    0.0390    0.0400    0.0410    0.0420    0.0430    0.0440    0.0450    0.0460    0.0470    0.0480    0.0490    0.0500    0.0510
+
+  Columns 53 through 65
+
+    0.0520    0.0530    0.0540    0.0550    0.0560    0.0570    0.0580    0.0590    0.0600    0.0610    0.0620    0.0630    0.0640
+
+  Columns 66 through 78
+
+    0.0650    0.0660    0.0670    0.0680    0.0690    0.0700    0.0710    0.0720    0.0730    0.0740    0.0750    0.0760    0.0770
+
+  Columns 79 through 91
+
+    0.0780    0.0790    0.0800    0.0810    0.0820    0.0830    0.0840    0.0850    0.0860    0.0870    0.0880    0.0890    0.0900
+
+  Columns 92 through 104
+
+    0.0910    0.0920    0.0930    0.0940    0.0950    0.0960    0.0970    0.0980    0.0990    0.1000    0.1010    0.1020    0.1030
+
+  Columns 105 through 117
+
+    0.1040    0.1050    0.1060    0.1070    0.1080    0.1090    0.1100    0.1110    0.1120    0.1130    0.1140    0.1150    0.1160
+
+  Columns 118 through 130
+
+    0.1170    0.1180    0.1190    0.1200    0.1210    0.1220    0.1230    0.1240    0.1250    0.1260    0.1270    0.1280    0.1290
+
+  Columns 131 through 143
+
+    0.1300    0.1310    0.1320    0.1330    0.1340    0.1350    0.1360    0.1370    0.1380    0.1390    0.1400    0.1410    0.1420
+
+  Columns 144 through 156
+
+    0.1430    0.1440    0.1450    0.1460    0.1470    0.1480    0.1490    0.1500    0.1510    0.1520    0.1530    0.1540    0.1550
+
+  Columns 157 through 169
+
+    0.1560    0.1570    0.1580    0.1590    0.1600    0.1610    0.1620    0.1630    0.1640    0.1650    0.1660    0.1670    0.1680
+
+  Columns 170 through 182
+
+    0.1690    0.1700    0.1710    0.1720    0.1730    0.1740    0.1750    0.1760    0.1770    0.1780    0.1790    0.1800    0.1810
+
+  Columns 183 through 195
+
+    0.1820    0.1830    0.1840    0.1850    0.1860    0.1870    0.1880    0.1890    0.1900    0.1910    0.1920    0.1930    0.1940
+
+  Columns 196 through 208
+
+    0.1950    0.1960    0.1970    0.1980    0.1990    0.2000    0.2010    0.2020    0.2030    0.2040    0.2050    0.2060    0.2070
+
+  Columns 209 through 221
+
+    0.2080    0.2090    0.2100    0.2110    0.2120    0.2130    0.2140    0.2150    0.2160    0.2170    0.2180    0.2190    0.2200
+
+  Columns 222 through 234
+
+    0.2210    0.2220    0.2230    0.2240    0.2250    0.2260    0.2270    0.2280    0.2290    0.2300    0.2310    0.2320    0.2330
+
+  Columns 235 through 247
+
+    0.2340    0.2350    0.2360    0.2370    0.2380    0.2390    0.2400    0.2410    0.2420    0.2430    0.2440    0.2450    0.2460
+
+  Columns 248 through 260
+
+    0.2470    0.2480    0.2490    0.2500    0.2510    0.2520    0.2530    0.2540    0.2550    0.2560    0.2570    0.2580    0.2590
+
+  Columns 261 through 273
+
+    0.2600    0.2610    0.2620    0.2630    0.2640    0.2650    0.2660    0.2670    0.2680    0.2690    0.2700    0.2710    0.2720
+
+  Columns 274 through 286
+
+    0.2730    0.2740    0.2750    0.2760    0.2770    0.2780    0.2790    0.2800    0.2810    0.2820    0.2830    0.2840    0.2850
+
+  Columns 287 through 299
+
+    0.2860    0.2870    0.2880    0.2890    0.2900    0.2910    0.2920    0.2930    0.2940    0.2950    0.2960    0.2970    0.2980
+
+  Columns 300 through 312
+
+    0.2990    0.3000    0.3010    0.3020    0.3030    0.3040    0.3050    0.3060    0.3070    0.3080    0.3090    0.3100    0.3110
+
+  Columns 313 through 325
+
+    0.3120    0.3130    0.3140    0.3150    0.3160    0.3170    0.3180    0.3190    0.3200    0.3210    0.3220    0.3230    0.3240
+
+  Columns 326 through 338
+
+    0.3250    0.3260    0.3270    0.3280    0.3290    0.3300    0.3310    0.3320    0.3330    0.3340    0.3350    0.3360    0.3370
+
+  Columns 339 through 351
+
+    0.3380    0.3390    0.3400    0.3410    0.3420    0.3430    0.3440    0.3450    0.3460    0.3470    0.3480    0.3490    0.3500
+
+  Columns 352 through 364
+
+    0.3510    0.3520    0.3530    0.3540    0.3550    0.3560    0.3570    0.3580    0.3590    0.3600    0.3610    0.3620    0.3630
+
+  Columns 365 through 377
+
+    0.3640    0.3650    0.3660    0.3670    0.3680    0.3690    0.3700    0.3710    0.3720    0.3730    0.3740    0.3750    0.3760
+
+  Columns 378 through 390
+
+    0.3770    0.3780    0.3790    0.3800    0.3810    0.3820    0.3830    0.3840    0.3850    0.3860    0.3870    0.3880    0.3890
+
+  Columns 391 through 403
+
+    0.3900    0.3910    0.3920    0.3930    0.3940    0.3950    0.3960    0.3970    0.3980    0.3990    0.4000    0.4010    0.4020
+
+  Columns 404 through 416
+
+    0.4030    0.4040    0.4050    0.4060    0.4070    0.4080    0.4090    0.4100    0.4110    0.4120    0.4130    0.4140    0.4150
+
+  Columns 417 through 429
+
+    0.4160    0.4170    0.4180    0.4190    0.4200    0.4210    0.4220    0.4230    0.4240    0.4250    0.4260    0.4270    0.4280
+
+  Columns 430 through 442
+
+    0.4290    0.4300    0.4310    0.4320    0.4330    0.4340    0.4350    0.4360    0.4370    0.4380    0.4390    0.4400    0.4410
+
+  Columns 443 through 455
+
+    0.4420    0.4430    0.4440    0.4450    0.4460    0.4470    0.4480    0.4490    0.4500    0.4510    0.4520    0.4530    0.4540
+
+  Columns 456 through 468
+
+    0.4550    0.4560    0.4570    0.4580    0.4590    0.4600    0.4610    0.4620    0.4630    0.4640    0.4650    0.4660    0.4670
+
+  Columns 469 through 481
+
+    0.4680    0.4690    0.4700    0.4710    0.4720    0.4730    0.4740    0.4750    0.4760    0.4770    0.4780    0.4790    0.4800
+
+  Columns 482 through 494
+
+    0.4810    0.4820    0.4830    0.4840    0.4850    0.4860    0.4870    0.4880    0.4890    0.4900    0.4910    0.4920    0.4930
+
+  Columns 495 through 507
+
+    0.4940    0.4950    0.4960    0.4970    0.4980    0.4990    0.5000    0.5010    0.5020    0.5030    0.5040    0.5050    0.5060
+
+  Columns 508 through 520
+
+    0.5070    0.5080    0.5090    0.5100    0.5110    0.5120    0.5130    0.5140    0.5150    0.5160    0.5170    0.5180    0.5190
+
+  Columns 521 through 533
+
+    0.5200    0.5210    0.5220    0.5230    0.5240    0.5250    0.5260    0.5270    0.5280    0.5290    0.5300    0.5310    0.5320
+
+  Columns 534 through 546
+
+    0.5330    0.5340    0.5350    0.5360    0.5370    0.5380    0.5390    0.5400    0.5410    0.5420    0.5430    0.5440    0.5450
+
+  Columns 547 through 559
+
+    0.5460    0.5470    0.5480    0.5490    0.5500    0.5510    0.5520    0.5530    0.5540    0.5550    0.5560    0.5570    0.5580
+
+  Columns 560 through 572
+
+    0.5590    0.5600    0.5610    0.5620    0.5630    0.5640    0.5650    0.5660    0.5670    0.5680    0.5690    0.5700    0.5710
+
+  Columns 573 through 585
+
+    0.5720    0.5730    0.5740    0.5750    0.5760    0.5770    0.5780    0.5790    0.5800    0.5810    0.5820    0.5830    0.5840
+
+  Columns 586 through 598
+
+    0.5850    0.5860    0.5870    0.5880    0.5890    0.5900    0.5910    0.5920    0.5930    0.5940    0.5950    0.5960    0.5970
+
+  Columns 599 through 611
+
+    0.5980    0.5990    0.6000    0.6010    0.6020    0.6030    0.6040    0.6050    0.6060    0.6070    0.6080    0.6090    0.6100
+
+  Columns 612 through 624
+
+    0.6110    0.6120    0.6130    0.6140    0.6150    0.6160    0.6170    0.6180    0.6190    0.6200    0.6210    0.6220    0.6230
+
+  Columns 625 through 637
+
+    0.6240    0.6250    0.6260    0.6270    0.6280    0.6290    0.6300    0.6310    0.6320    0.6330    0.6340    0.6350    0.6360
+
+  Columns 638 through 650
+
+    0.6370    0.6380    0.6390    0.6400    0.6410    0.6420    0.6430    0.6440    0.6450    0.6460    0.6470    0.6480    0.6490
+
+  Columns 651 through 663
+
+    0.6500    0.6510    0.6520    0.6530    0.6540    0.6550    0.6560    0.6570    0.6580    0.6590    0.6600    0.6610    0.6620
+
+  Columns 664 through 676
+
+    0.6630    0.6640    0.6650    0.6660    0.6670    0.6680    0.6690    0.6700    0.6710    0.6720    0.6730    0.6740    0.6750
+
+  Columns 677 through 689
+
+    0.6760    0.6770    0.6780    0.6790    0.6800    0.6810    0.6820    0.6830    0.6840    0.6850    0.6860    0.6870    0.6880
+
+  Columns 690 through 702
+
+    0.6890    0.6900    0.6910    0.6920    0.6930    0.6940    0.6950    0.6960    0.6970    0.6980    0.6990    0.7000    0.7010
+
+  Columns 703 through 715
+
+    0.7020    0.7030    0.7040    0.7050    0.7060    0.7070    0.7080    0.7090    0.7100    0.7110    0.7120    0.7130    0.7140
+
+  Columns 716 through 728
+
+    0.7150    0.7160    0.7170    0.7180    0.7190    0.7200    0.7210    0.7220    0.7230    0.7240    0.7250    0.7260    0.7270
+
+  Columns 729 through 741
+
+    0.7280    0.7290    0.7300    0.7310    0.7320    0.7330    0.7340    0.7350    0.7360    0.7370    0.7380    0.7390    0.7400
+
+  Columns 742 through 754
+
+    0.7410    0.7420    0.7430    0.7440    0.7450    0.7460    0.7470    0.7480    0.7490    0.7500    0.7510    0.7520    0.7530
+
+  Columns 755 through 767
+
+    0.7540    0.7550    0.7560    0.7570    0.7580    0.7590    0.7600    0.7610    0.7620    0.7630    0.7640    0.7650    0.7660
+
+  Columns 768 through 780
+
+    0.7670    0.7680    0.7690    0.7700    0.7710    0.7720    0.7730    0.7740    0.7750    0.7760    0.7770    0.7780    0.7790
+
+  Columns 781 through 793
+
+    0.7800    0.7810    0.7820    0.7830    0.7840    0.7850    0.7860    0.7870    0.7880    0.7890    0.7900    0.7910    0.7920
+
+  Columns 794 through 806
+
+    0.7930    0.7940    0.7950    0.7960    0.7970    0.7980    0.7990    0.8000    0.8010    0.8020    0.8030    0.8040    0.8050
+
+  Columns 807 through 819
+
+    0.8060    0.8070    0.8080    0.8090    0.8100    0.8110    0.8120    0.8130    0.8140    0.8150    0.8160    0.8170    0.8180
+
+  Columns 820 through 832
+
+    0.8190    0.8200    0.8210    0.8220    0.8230    0.8240    0.8250    0.8260    0.8270    0.8280    0.8290    0.8300    0.8310
+
+  Columns 833 through 845
+
+    0.8320    0.8330    0.8340    0.8350    0.8360    0.8370    0.8380    0.8390    0.8400    0.8410    0.8420    0.8430    0.8440
+
+  Columns 846 through 858
+
+    0.8450    0.8460    0.8470    0.8480    0.8490    0.8500    0.8510    0.8520    0.8530    0.8540    0.8550    0.8560    0.8570
+
+  Columns 859 through 871
+
+    0.8580    0.8590    0.8600    0.8610    0.8620    0.8630    0.8640    0.8650    0.8660    0.8670    0.8680    0.8690    0.8700
+
+  Columns 872 through 884
+
+    0.8710    0.8720    0.8730    0.8740    0.8750    0.8760    0.8770    0.8780    0.8790    0.8800    0.8810    0.8820    0.8830
+
+  Columns 885 through 897
+
+    0.8840    0.8850    0.8860    0.8870    0.8880    0.8890    0.8900    0.8910    0.8920    0.8930    0.8940    0.8950    0.8960
+
+  Columns 898 through 910
+
+    0.8970    0.8980    0.8990    0.9000    0.9010    0.9020    0.9030    0.9040    0.9050    0.9060    0.9070    0.9080    0.9090
+
+  Columns 911 through 923
+
+    0.9100    0.9110    0.9120    0.9130    0.9140    0.9150    0.9160    0.9170    0.9180    0.9190    0.9200    0.9210    0.9220
+
+  Columns 924 through 936
+
+    0.9230    0.9240    0.9250    0.9260    0.9270    0.9280    0.9290    0.9300    0.9310    0.9320    0.9330    0.9340    0.9350
+
+  Columns 937 through 949
+
+    0.9360    0.9370    0.9380    0.9390    0.9400    0.9410    0.9420    0.9430    0.9440    0.9450    0.9460    0.9470    0.9480
+
+  Columns 950 through 962
+
+    0.9490    0.9500    0.9510    0.9520    0.9530    0.9540    0.9550    0.9560    0.9570    0.9580    0.9590    0.9600    0.9610
+
+  Columns 963 through 975
+
+    0.9620    0.9630    0.9640    0.9650    0.9660    0.9670    0.9680    0.9690    0.9700    0.9710    0.9720    0.9730    0.9740
+
+  Columns 976 through 988
+
+    0.9750    0.9760    0.9770    0.9780    0.9790    0.9800    0.9810    0.9820    0.9830    0.9840    0.9850    0.9860    0.9870
+
+  Columns 989 through 1001
+
+    0.9880    0.9890    0.9900    0.9910    0.9920    0.9930    0.9940    0.9950    0.9960    0.9970    0.9980    0.9990    1.0000
+
+clc
+doc linspace
+
+tArray =
+
+  Columns 1 through 13
+
+         0    0.0010    0.0020    0.0030    0.0040    0.0050    0.0060    0.0070    0.0080    0.0090    0.0100    0.0110    0.0120
+
+  Columns 14 through 26
+
+    0.0130    0.0140    0.0150    0.0160    0.0170    0.0180    0.0190    0.0200    0.0210    0.0220    0.0230    0.0240    0.0250
+
+  Columns 27 through 39
+
+    0.0260    0.0270    0.0280    0.0290    0.0300    0.0310    0.0320    0.0330    0.0340    0.0350    0.0360    0.0370    0.0380
+
+  Columns 40 through 52
+
+    0.0390    0.0400    0.0410    0.0420    0.0430    0.0440    0.0450    0.0460    0.0470    0.0480    0.0490    0.0500    0.0510
+
+  Columns 53 through 65
+
+    0.0520    0.0530    0.0540    0.0550    0.0560    0.0570    0.0580    0.0590    0.0600    0.0610    0.0620    0.0630    0.0640
+
+  Columns 66 through 78
+
+    0.0650    0.0660    0.0670    0.0680    0.0690    0.0700    0.0710    0.0720    0.0730    0.0740    0.0750    0.0760    0.0770
+
+  Columns 79 through 91
+
+    0.0780    0.0790    0.0800    0.0810    0.0820    0.0830    0.0840    0.0850    0.0860    0.0870    0.0880    0.0890    0.0900
+
+  Columns 92 through 104
+
+    0.0910    0.0920    0.0930    0.0940    0.0950    0.0960    0.0970    0.0980    0.0990    0.1000    0.1010    0.1020    0.1030
+
+  Columns 105 through 117
+
+    0.1040    0.1050    0.1060    0.1070    0.1080    0.1090    0.1100    0.1110    0.1120    0.1130    0.1140    0.1150    0.1160
+
+  Columns 118 through 130
+
+    0.1170    0.1180    0.1190    0.1200    0.1210    0.1220    0.1230    0.1240    0.1250    0.1260    0.1270    0.1280    0.1290
+
+  Columns 131 through 143
+
+    0.1300    0.1310    0.1320    0.1330    0.1340    0.1350    0.1360    0.1370    0.1380    0.1390    0.1400    0.1410    0.1420
+
+  Columns 144 through 156
+
+    0.1430    0.1440    0.1450    0.1460    0.1470    0.1480    0.1490    0.1500    0.1510    0.1520    0.1530    0.1540    0.1550
+
+  Columns 157 through 169
+
+    0.1560    0.1570    0.1580    0.1590    0.1600    0.1610    0.1620    0.1630    0.1640    0.1650    0.1660    0.1670    0.1680
+
+  Columns 170 through 182
+
+    0.1690    0.1700    0.1710    0.1720    0.1730    0.1740    0.1750    0.1760    0.1770    0.1780    0.1790    0.1800    0.1810
+
+  Columns 183 through 195
+
+    0.1820    0.1830    0.1840    0.1850    0.1860    0.1870    0.1880    0.1890    0.1900    0.1910    0.1920    0.1930    0.1940
+
+  Columns 196 through 208
+
+    0.1950    0.1960    0.1970    0.1980    0.1990    0.2000    0.2010    0.2020    0.2030    0.2040    0.2050    0.2060    0.2070
+
+  Columns 209 through 221
+
+    0.2080    0.2090    0.2100    0.2110    0.2120    0.2130    0.2140    0.2150    0.2160    0.2170    0.2180    0.2190    0.2200
+
+  Columns 222 through 234
+
+    0.2210    0.2220    0.2230    0.2240    0.2250    0.2260    0.2270    0.2280    0.2290    0.2300    0.2310    0.2320    0.2330
+
+  Columns 235 through 247
+
+    0.2340    0.2350    0.2360    0.2370    0.2380    0.2390    0.2400    0.2410    0.2420    0.2430    0.2440    0.2450    0.2460
+
+  Columns 248 through 260
+
+    0.2470    0.2480    0.2490    0.2500    0.2510    0.2520    0.2530    0.2540    0.2550    0.2560    0.2570    0.2580    0.2590
+
+  Columns 261 through 273
+
+    0.2600    0.2610    0.2620    0.2630    0.2640    0.2650    0.2660    0.2670    0.2680    0.2690    0.2700    0.2710    0.2720
+
+  Columns 274 through 286
+
+    0.2730    0.2740    0.2750    0.2760    0.2770    0.2780    0.2790    0.2800    0.2810    0.2820    0.2830    0.2840    0.2850
+
+  Columns 287 through 299
+
+    0.2860    0.2870    0.2880    0.2890    0.2900    0.2910    0.2920    0.2930    0.2940    0.2950    0.2960    0.2970    0.2980
+
+  Columns 300 through 312
+
+    0.2990    0.3000    0.3010    0.3020    0.3030    0.3040    0.3050    0.3060    0.3070    0.3080    0.3090    0.3100    0.3110
+
+  Columns 313 through 325
+
+    0.3120    0.3130    0.3140    0.3150    0.3160    0.3170    0.3180    0.3190    0.3200    0.3210    0.3220    0.3230    0.3240
+
+  Columns 326 through 338
+
+    0.3250    0.3260    0.3270    0.3280    0.3290    0.3300    0.3310    0.3320    0.3330    0.3340    0.3350    0.3360    0.3370
+
+  Columns 339 through 351
+
+    0.3380    0.3390    0.3400    0.3410    0.3420    0.3430    0.3440    0.3450    0.3460    0.3470    0.3480    0.3490    0.3500
+
+  Columns 352 through 364
+
+    0.3510    0.3520    0.3530    0.3540    0.3550    0.3560    0.3570    0.3580    0.3590    0.3600    0.3610    0.3620    0.3630
+
+  Columns 365 through 377
+
+    0.3640    0.3650    0.3660    0.3670    0.3680    0.3690    0.3700    0.3710    0.3720    0.3730    0.3740    0.3750    0.3760
+
+  Columns 378 through 390
+
+    0.3770    0.3780    0.3790    0.3800    0.3810    0.3820    0.3830    0.3840    0.3850    0.3860    0.3870    0.3880    0.3890
+
+  Columns 391 through 403
+
+    0.3900    0.3910    0.3920    0.3930    0.3940    0.3950    0.3960    0.3970    0.3980    0.3990    0.4000    0.4010    0.4020
+
+  Columns 404 through 416
+
+    0.4030    0.4040    0.4050    0.4060    0.4070    0.4080    0.4090    0.4100    0.4110    0.4120    0.4130    0.4140    0.4150
+
+  Columns 417 through 429
+
+    0.4160    0.4170    0.4180    0.4190    0.4200    0.4210    0.4220    0.4230    0.4240    0.4250    0.4260    0.4270    0.4280
+
+  Columns 430 through 442
+
+    0.4290    0.4300    0.4310    0.4320    0.4330    0.4340    0.4350    0.4360    0.4370    0.4380    0.4390    0.4400    0.4410
+
+  Columns 443 through 455
+
+    0.4420    0.4430    0.4440    0.4450    0.4460    0.4470    0.4480    0.4490    0.4500    0.4510    0.4520    0.4530    0.4540
+
+  Columns 456 through 468
+
+    0.4550    0.4560    0.4570    0.4580    0.4590    0.4600    0.4610    0.4620    0.4630    0.4640    0.4650    0.4660    0.4670
+
+  Columns 469 through 481
+
+    0.4680    0.4690    0.4700    0.4710    0.4720    0.4730    0.4740    0.4750    0.4760    0.4770    0.4780    0.4790    0.4800
+
+  Columns 482 through 494
+
+    0.4810    0.4820    0.4830    0.4840    0.4850    0.4860    0.4870    0.4880    0.4890    0.4900    0.4910    0.4920    0.4930
+
+  Columns 495 through 507
+
+    0.4940    0.4950    0.4960    0.4970    0.4980    0.4990    0.5000    0.5010    0.5020    0.5030    0.5040    0.5050    0.5060
+
+  Columns 508 through 520
+
+    0.5070    0.5080    0.5090    0.5100    0.5110    0.5120    0.5130    0.5140    0.5150    0.5160    0.5170    0.5180    0.5190
+
+  Columns 521 through 533
+
+    0.5200    0.5210    0.5220    0.5230    0.5240    0.5250    0.5260    0.5270    0.5280    0.5290    0.5300    0.5310    0.5320
+
+  Columns 534 through 546
+
+    0.5330    0.5340    0.5350    0.5360    0.5370    0.5380    0.5390    0.5400    0.5410    0.5420    0.5430    0.5440    0.5450
+
+  Columns 547 through 559
+
+    0.5460    0.5470    0.5480    0.5490    0.5500    0.5510    0.5520    0.5530    0.5540    0.5550    0.5560    0.5570    0.5580
+
+  Columns 560 through 572
+
+    0.5590    0.5600    0.5610    0.5620    0.5630    0.5640    0.5650    0.5660    0.5670    0.5680    0.5690    0.5700    0.5710
+
+  Columns 573 through 585
+
+    0.5720    0.5730    0.5740    0.5750    0.5760    0.5770    0.5780    0.5790    0.5800    0.5810    0.5820    0.5830    0.5840
+
+  Columns 586 through 598
+
+    0.5850    0.5860    0.5870    0.5880    0.5890    0.5900    0.5910    0.5920    0.5930    0.5940    0.5950    0.5960    0.5970
+
+  Columns 599 through 611
+
+    0.5980    0.5990    0.6000    0.6010    0.6020    0.6030    0.6040    0.6050    0.6060    0.6070    0.6080    0.6090    0.6100
+
+  Columns 612 through 624
+
+    0.6110    0.6120    0.6130    0.6140    0.6150    0.6160    0.6170    0.6180    0.6190    0.6200    0.6210    0.6220    0.6230
+
+  Columns 625 through 637
+
+    0.6240    0.6250    0.6260    0.6270    0.6280    0.6290    0.6300    0.6310    0.6320    0.6330    0.6340    0.6350    0.6360
+
+  Columns 638 through 650
+
+    0.6370    0.6380    0.6390    0.6400    0.6410    0.6420    0.6430    0.6440    0.6450    0.6460    0.6470    0.6480    0.6490
+
+  Columns 651 through 663
+
+    0.6500    0.6510    0.6520    0.6530    0.6540    0.6550    0.6560    0.6570    0.6580    0.6590    0.6600    0.6610    0.6620
+
+  Columns 664 through 676
+
+    0.6630    0.6640    0.6650    0.6660    0.6670    0.6680    0.6690    0.6700    0.6710    0.6720    0.6730    0.6740    0.6750
+
+  Columns 677 through 689
+
+    0.6760    0.6770    0.6780    0.6790    0.6800    0.6810    0.6820    0.6830    0.6840    0.6850    0.6860    0.6870    0.6880
+
+  Columns 690 through 702
+
+    0.6890    0.6900    0.6910    0.6920    0.6930    0.6940    0.6950    0.6960    0.6970    0.6980    0.6990    0.7000    0.7010
+
+  Columns 703 through 715
+
+    0.7020    0.7030    0.7040    0.7050    0.7060    0.7070    0.7080    0.7090    0.7100    0.7110    0.7120    0.7130    0.7140
+
+  Columns 716 through 728
+
+    0.7150    0.7160    0.7170    0.7180    0.7190    0.7200    0.7210    0.7220    0.7230    0.7240    0.7250    0.7260    0.7270
+
+  Columns 729 through 741
+
+    0.7280    0.7290    0.7300    0.7310    0.7320    0.7330    0.7340    0.7350    0.7360    0.7370    0.7380    0.7390    0.7400
+
+  Columns 742 through 754
+
+    0.7410    0.7420    0.7430    0.7440    0.7450    0.7460    0.7470    0.7480    0.7490    0.7500    0.7510    0.7520    0.7530
+
+  Columns 755 through 767
+
+    0.7540    0.7550    0.7560    0.7570    0.7580    0.7590    0.7600    0.7610    0.7620    0.7630    0.7640    0.7650    0.7660
+
+  Columns 768 through 780
+
+    0.7670    0.7680    0.7690    0.7700    0.7710    0.7720    0.7730    0.7740    0.7750    0.7760    0.7770    0.7780    0.7790
+
+  Columns 781 through 793
+
+    0.7800    0.7810    0.7820    0.7830    0.7840    0.7850    0.7860    0.7870    0.7880    0.7890    0.7900    0.7910    0.7920
+
+  Columns 794 through 806
+
+    0.7930    0.7940    0.7950    0.7960    0.7970    0.7980    0.7990    0.8000    0.8010    0.8020    0.8030    0.8040    0.8050
+
+  Columns 807 through 819
+
+    0.8060    0.8070    0.8080    0.8090    0.8100    0.8110    0.8120    0.8130    0.8140    0.8150    0.8160    0.8170    0.8180
+
+  Columns 820 through 832
+
+    0.8190    0.8200    0.8210    0.8220    0.8230    0.8240    0.8250    0.8260    0.8270    0.8280    0.8290    0.8300    0.8310
+
+  Columns 833 through 845
+
+    0.8320    0.8330    0.8340    0.8350    0.8360    0.8370    0.8380    0.8390    0.8400    0.8410    0.8420    0.8430    0.8440
+
+  Columns 846 through 858
+
+    0.8450    0.8460    0.8470    0.8480    0.8490    0.8500    0.8510    0.8520    0.8530    0.8540    0.8550    0.8560    0.8570
+
+  Columns 859 through 871
+
+    0.8580    0.8590    0.8600    0.8610    0.8620    0.8630    0.8640    0.8650    0.8660    0.8670    0.8680    0.8690    0.8700
+
+  Columns 872 through 884
+
+    0.8710    0.8720    0.8730    0.8740    0.8750    0.8760    0.8770    0.8780    0.8790    0.8800    0.8810    0.8820    0.8830
+
+  Columns 885 through 897
+
+    0.8840    0.8850    0.8860    0.8870    0.8880    0.8890    0.8900    0.8910    0.8920    0.8930    0.8940    0.8950    0.8960
+
+  Columns 898 through 910
+
+    0.8970    0.8980    0.8990    0.9000    0.9010    0.9020    0.9030    0.9040    0.9050    0.9060    0.9070    0.9080    0.9090
+
+  Columns 911 through 923
+
+    0.9100    0.9110    0.9120    0.9130    0.9140    0.9150    0.9160    0.9170    0.9180    0.9190    0.9200    0.9210    0.9220
+
+  Columns 924 through 936
+
+    0.9230    0.9240    0.9250    0.9260    0.9270    0.9280    0.9290    0.9300    0.9310    0.9320    0.9330    0.9340    0.9350
+
+  Columns 937 through 949
+
+    0.9360    0.9370    0.9380    0.9390    0.9400    0.9410    0.9420    0.9430    0.9440    0.9450    0.9460    0.9470    0.9480
+
+  Columns 950 through 962
+
+    0.9490    0.9500    0.9510    0.9520    0.9530    0.9540    0.9550    0.9560    0.9570    0.9580    0.9590    0.9600    0.9610
+
+  Columns 963 through 975
+
+    0.9620    0.9630    0.9640    0.9650    0.9660    0.9670    0.9680    0.9690    0.9700    0.9710    0.9720    0.9730    0.9740
+
+  Columns 976 through 988
+
+    0.9750    0.9760    0.9770    0.9780    0.9790    0.9800    0.9810    0.9820    0.9830    0.9840    0.9850    0.9860    0.9870
+
+  Columns 989 through 1001
+
+    0.9880    0.9890    0.9900    0.9910    0.9920    0.9930    0.9940    0.9950    0.9960    0.9970    0.9980    0.9990    1.0000
+
+clc
+ \omega = f * 2pi 
+ 
+{Error: Unexpected MATLAB operator.
+} 
+ omega = f * 2pi 
+              
+{Error: Unexpected MATLAB expression.
+} 
+
+omega =
+
+   31.4159
+
+doc cosine
+
+omega =
+
+   31.4159
+
+
+sineCalc =
+
+  Columns 1 through 13
+
+         0    0.0314    0.0628    0.0941    0.1253    0.1564    0.1874    0.2181    0.2487    0.2790    0.3090    0.3387    0.3681
+
+  Columns 14 through 26
+
+    0.3971    0.4258    0.4540    0.4818    0.5090    0.5358    0.5621    0.5878    0.6129    0.6374    0.6613    0.6845    0.7071
+
+  Columns 27 through 39
+
+    0.7290    0.7501    0.7705    0.7902    0.8090    0.8271    0.8443    0.8607    0.8763    0.8910    0.9048    0.9178    0.9298
+
+  Columns 40 through 52
+
+    0.9409    0.9511    0.9603    0.9686    0.9759    0.9823    0.9877    0.9921    0.9956    0.9980    0.9995    1.0000    0.9995
+
+  Columns 53 through 65
+
+    0.9980    0.9956    0.9921    0.9877    0.9823    0.9759    0.9686    0.9603    0.9511    0.9409    0.9298    0.9178    0.9048
+
+  Columns 66 through 78
+
+    0.8910    0.8763    0.8607    0.8443    0.8271    0.8090    0.7902    0.7705    0.7501    0.7290    0.7071    0.6845    0.6613
+
+  Columns 79 through 91
+
+    0.6374    0.6129    0.5878    0.5621    0.5358    0.5090    0.4818    0.4540    0.4258    0.3971    0.3681    0.3387    0.3090
+
+  Columns 92 through 104
+
+    0.2790    0.2487    0.2181    0.1874    0.1564    0.1253    0.0941    0.0628    0.0314    0.0000   -0.0314   -0.0628   -0.0941
+
+  Columns 105 through 117
+
+   -0.1253   -0.1564   -0.1874   -0.2181   -0.2487   -0.2790   -0.3090   -0.3387   -0.3681   -0.3971   -0.4258   -0.4540   -0.4818
+
+  Columns 118 through 130
+
+   -0.5090   -0.5358   -0.5621   -0.5878   -0.6129   -0.6374   -0.6613   -0.6845   -0.7071   -0.7290   -0.7501   -0.7705   -0.7902
+
+  Columns 131 through 143
+
+   -0.8090   -0.8271   -0.8443   -0.8607   -0.8763   -0.8910   -0.9048   -0.9178   -0.9298   -0.9409   -0.9511   -0.9603   -0.9686
+
+  Columns 144 through 156
+
+   -0.9759   -0.9823   -0.9877   -0.9921   -0.9956   -0.9980   -0.9995   -1.0000   -0.9995   -0.9980   -0.9956   -0.9921   -0.9877
+
+  Columns 157 through 169
+
+   -0.9823   -0.9759   -0.9686   -0.9603   -0.9511   -0.9409   -0.9298   -0.9178   -0.9048   -0.8910   -0.8763   -0.8607   -0.8443
+
+  Columns 170 through 182
+
+   -0.8271   -0.8090   -0.7902   -0.7705   -0.7501   -0.7290   -0.7071   -0.6845   -0.6613   -0.6374   -0.6129   -0.5878   -0.5621
+
+  Columns 183 through 195
+
+   -0.5358   -0.5090   -0.4818   -0.4540   -0.4258   -0.3971   -0.3681   -0.3387   -0.3090   -0.2790   -0.2487   -0.2181   -0.1874
+
+  Columns 196 through 208
+
+   -0.1564   -0.1253   -0.0941   -0.0628   -0.0314   -0.0000    0.0314    0.0628    0.0941    0.1253    0.1564    0.1874    0.2181
+
+  Columns 209 through 221
+
+    0.2487    0.2790    0.3090    0.3387    0.3681    0.3971    0.4258    0.4540    0.4818    0.5090    0.5358    0.5621    0.5878
+
+  Columns 222 through 234
+
+    0.6129    0.6374    0.6613    0.6845    0.7071    0.7290    0.7501    0.7705    0.7902    0.8090    0.8271    0.8443    0.8607
+
+  Columns 235 through 247
+
+    0.8763    0.8910    0.9048    0.9178    0.9298    0.9409    0.9511    0.9603    0.9686    0.9759    0.9823    0.9877    0.9921
+
+  Columns 248 through 260
+
+    0.9956    0.9980    0.9995    1.0000    0.9995    0.9980    0.9956    0.9921    0.9877    0.9823    0.9759    0.9686    0.9603
+
+  Columns 261 through 273
+
+    0.9511    0.9409    0.9298    0.9178    0.9048    0.8910    0.8763    0.8607    0.8443    0.8271    0.8090    0.7902    0.7705
+
+  Columns 274 through 286
+
+    0.7501    0.7290    0.7071    0.6845    0.6613    0.6374    0.6129    0.5878    0.5621    0.5358    0.5090    0.4818    0.4540
+
+  Columns 287 through 299
+
+    0.4258    0.3971    0.3681    0.3387    0.3090    0.2790    0.2487    0.2181    0.1874    0.1564    0.1253    0.0941    0.0628
+
+  Columns 300 through 312
+
+    0.0314    0.0000   -0.0314   -0.0628   -0.0941   -0.1253   -0.1564   -0.1874   -0.2181   -0.2487   -0.2790   -0.3090   -0.3387
+
+  Columns 313 through 325
+
+   -0.3681   -0.3971   -0.4258   -0.4540   -0.4818   -0.5090   -0.5358   -0.5621   -0.5878   -0.6129   -0.6374   -0.6613   -0.6845
+
+  Columns 326 through 338
+
+   -0.7071   -0.7290   -0.7501   -0.7705   -0.7902   -0.8090   -0.8271   -0.8443   -0.8607   -0.8763   -0.8910   -0.9048   -0.9178
+
+  Columns 339 through 351
+
+   -0.9298   -0.9409   -0.9511   -0.9603   -0.9686   -0.9759   -0.9823   -0.9877   -0.9921   -0.9956   -0.9980   -0.9995   -1.0000
+
+  Columns 352 through 364
+
+   -0.9995   -0.9980   -0.9956   -0.9921   -0.9877   -0.9823   -0.9759   -0.9686   -0.9603   -0.9511   -0.9409   -0.9298   -0.9178
+
+  Columns 365 through 377
+
+   -0.9048   -0.8910   -0.8763   -0.8607   -0.8443   -0.8271   -0.8090   -0.7902   -0.7705   -0.7501   -0.7290   -0.7071   -0.6845
+
+  Columns 378 through 390
+
+   -0.6613   -0.6374   -0.6129   -0.5878   -0.5621   -0.5358   -0.5090   -0.4818   -0.4540   -0.4258   -0.3971   -0.3681   -0.3387
+
+  Columns 391 through 403
+
+   -0.3090   -0.2790   -0.2487   -0.2181   -0.1874   -0.1564   -0.1253   -0.0941   -0.0628   -0.0314   -0.0000    0.0314    0.0628
+
+  Columns 404 through 416
+
+    0.0941    0.1253    0.1564    0.1874    0.2181    0.2487    0.2790    0.3090    0.3387    0.3681    0.3971    0.4258    0.4540
+
+  Columns 417 through 429
+
+    0.4818    0.5090    0.5358    0.5621    0.5878    0.6129    0.6374    0.6613    0.6845    0.7071    0.7290    0.7501    0.7705
+
+  Columns 430 through 442
+
+    0.7902    0.8090    0.8271    0.8443    0.8607    0.8763    0.8910    0.9048    0.9178    0.9298    0.9409    0.9511    0.9603
+
+  Columns 443 through 455
+
+    0.9686    0.9759    0.9823    0.9877    0.9921    0.9956    0.9980    0.9995    1.0000    0.9995    0.9980    0.9956    0.9921
+
+  Columns 456 through 468
+
+    0.9877    0.9823    0.9759    0.9686    0.9603    0.9511    0.9409    0.9298    0.9178    0.9048    0.8910    0.8763    0.8607
+
+  Columns 469 through 481
+
+    0.8443    0.8271    0.8090    0.7902    0.7705    0.7501    0.7290    0.7071    0.6845    0.6613    0.6374    0.6129    0.5878
+
+  Columns 482 through 494
+
+    0.5621    0.5358    0.5090    0.4818    0.4540    0.4258    0.3971    0.3681    0.3387    0.3090    0.2790    0.2487    0.2181
+
+  Columns 495 through 507
+
+    0.1874    0.1564    0.1253    0.0941    0.0628    0.0314    0.0000   -0.0314   -0.0628   -0.0941   -0.1253   -0.1564   -0.1874
+
+  Columns 508 through 520
+
+   -0.2181   -0.2487   -0.2790   -0.3090   -0.3387   -0.3681   -0.3971   -0.4258   -0.4540   -0.4818   -0.5090   -0.5358   -0.5621
+
+  Columns 521 through 533
+
+   -0.5878   -0.6129   -0.6374   -0.6613   -0.6845   -0.7071   -0.7290   -0.7501   -0.7705   -0.7902   -0.8090   -0.8271   -0.8443
+
+  Columns 534 through 546
+
+   -0.8607   -0.8763   -0.8910   -0.9048   -0.9178   -0.9298   -0.9409   -0.9511   -0.9603   -0.9686   -0.9759   -0.9823   -0.9877
+
+  Columns 547 through 559
+
+   -0.9921   -0.9956   -0.9980   -0.9995   -1.0000   -0.9995   -0.9980   -0.9956   -0.9921   -0.9877   -0.9823   -0.9759   -0.9686
+
+  Columns 560 through 572
+
+   -0.9603   -0.9511   -0.9409   -0.9298   -0.9178   -0.9048   -0.8910   -0.8763   -0.8607   -0.8443   -0.8271   -0.8090   -0.7902
+
+  Columns 573 through 585
+
+   -0.7705   -0.7501   -0.7290   -0.7071   -0.6845   -0.6613   -0.6374   -0.6129   -0.5878   -0.5621   -0.5358   -0.5090   -0.4818
+
+  Columns 586 through 598
+
+   -0.4540   -0.4258   -0.3971   -0.3681   -0.3387   -0.3090   -0.2790   -0.2487   -0.2181   -0.1874   -0.1564   -0.1253   -0.0941
+
+  Columns 599 through 611
+
+   -0.0628   -0.0314   -0.0000    0.0314    0.0628    0.0941    0.1253    0.1564    0.1874    0.2181    0.2487    0.2790    0.3090
+
+  Columns 612 through 624
+
+    0.3387    0.3681    0.3971    0.4258    0.4540    0.4818    0.5090    0.5358    0.5621    0.5878    0.6129    0.6374    0.6613
+
+  Columns 625 through 637
+
+    0.6845    0.7071    0.7290    0.7501    0.7705    0.7902    0.8090    0.8271    0.8443    0.8607    0.8763    0.8910    0.9048
+
+  Columns 638 through 650
+
+    0.9178    0.9298    0.9409    0.9511    0.9603    0.9686    0.9759    0.9823    0.9877    0.9921    0.9956    0.9980    0.9995
+
+  Columns 651 through 663
+
+    1.0000    0.9995    0.9980    0.9956    0.9921    0.9877    0.9823    0.9759    0.9686    0.9603    0.9511    0.9409    0.9298
+
+  Columns 664 through 676
+
+    0.9178    0.9048    0.8910    0.8763    0.8607    0.8443    0.8271    0.8090    0.7902    0.7705    0.7501    0.7290    0.7071
+
+  Columns 677 through 689
+
+    0.6845    0.6613    0.6374    0.6129    0.5878    0.5621    0.5358    0.5090    0.4818    0.4540    0.4258    0.3971    0.3681
+
+  Columns 690 through 702
+
+    0.3387    0.3090    0.2790    0.2487    0.2181    0.1874    0.1564    0.1253    0.0941    0.0628    0.0314    0.0000   -0.0314
+
+  Columns 703 through 715
+
+   -0.0628   -0.0941   -0.1253   -0.1564   -0.1874   -0.2181   -0.2487   -0.2790   -0.3090   -0.3387   -0.3681   -0.3971   -0.4258
+
+  Columns 716 through 728
+
+   -0.4540   -0.4818   -0.5090   -0.5358   -0.5621   -0.5878   -0.6129   -0.6374   -0.6613   -0.6845   -0.7071   -0.7290   -0.7501
+
+  Columns 729 through 741
+
+   -0.7705   -0.7902   -0.8090   -0.8271   -0.8443   -0.8607   -0.8763   -0.8910   -0.9048   -0.9178   -0.9298   -0.9409   -0.9511
+
+  Columns 742 through 754
+
+   -0.9603   -0.9686   -0.9759   -0.9823   -0.9877   -0.9921   -0.9956   -0.9980   -0.9995   -1.0000   -0.9995   -0.9980   -0.9956
+
+  Columns 755 through 767
+
+   -0.9921   -0.9877   -0.9823   -0.9759   -0.9686   -0.9603   -0.9511   -0.9409   -0.9298   -0.9178   -0.9048   -0.8910   -0.8763
+
+  Columns 768 through 780
+
+   -0.8607   -0.8443   -0.8271   -0.8090   -0.7902   -0.7705   -0.7501   -0.7290   -0.7071   -0.6845   -0.6613   -0.6374   -0.6129
+
+  Columns 781 through 793
+
+   -0.5878   -0.5621   -0.5358   -0.5090   -0.4818   -0.4540   -0.4258   -0.3971   -0.3681   -0.3387   -0.3090   -0.2790   -0.2487
+
+  Columns 794 through 806
+
+   -0.2181   -0.1874   -0.1564   -0.1253   -0.0941   -0.0628   -0.0314   -0.0000    0.0314    0.0628    0.0941    0.1253    0.1564
+
+  Columns 807 through 819
+
+    0.1874    0.2181    0.2487    0.2790    0.3090    0.3387    0.3681    0.3971    0.4258    0.4540    0.4818    0.5090    0.5358
+
+  Columns 820 through 832
+
+    0.5621    0.5878    0.6129    0.6374    0.6613    0.6845    0.7071    0.7290    0.7501    0.7705    0.7902    0.8090    0.8271
+
+  Columns 833 through 845
+
+    0.8443    0.8607    0.8763    0.8910    0.9048    0.9178    0.9298    0.9409    0.9511    0.9603    0.9686    0.9759    0.9823
+
+  Columns 846 through 858
+
+    0.9877    0.9921    0.9956    0.9980    0.9995    1.0000    0.9995    0.9980    0.9956    0.9921    0.9877    0.9823    0.9759
+
+  Columns 859 through 871
+
+    0.9686    0.9603    0.9511    0.9409    0.9298    0.9178    0.9048    0.8910    0.8763    0.8607    0.8443    0.8271    0.8090
+
+  Columns 872 through 884
+
+    0.7902    0.7705    0.7501    0.7290    0.7071    0.6845    0.6613    0.6374    0.6129    0.5878    0.5621    0.5358    0.5090
+
+  Columns 885 through 897
+
+    0.4818    0.4540    0.4258    0.3971    0.3681    0.3387    0.3090    0.2790    0.2487    0.2181    0.1874    0.1564    0.1253
+
+  Columns 898 through 910
+
+    0.0941    0.0628    0.0314    0.0000   -0.0314   -0.0628   -0.0941   -0.1253   -0.1564   -0.1874   -0.2181   -0.2487   -0.2790
+
+  Columns 911 through 923
+
+   -0.3090   -0.3387   -0.3681   -0.3971   -0.4258   -0.4540   -0.4818   -0.5090   -0.5358   -0.5621   -0.5878   -0.6129   -0.6374
+
+  Columns 924 through 936
+
+   -0.6613   -0.6845   -0.7071   -0.7290   -0.7501   -0.7705   -0.7902   -0.8090   -0.8271   -0.8443   -0.8607   -0.8763   -0.8910
+
+  Columns 937 through 949
+
+   -0.9048   -0.9178   -0.9298   -0.9409   -0.9511   -0.9603   -0.9686   -0.9759   -0.9823   -0.9877   -0.9921   -0.9956   -0.9980
+
+  Columns 950 through 962
+
+   -0.9995   -1.0000   -0.9995   -0.9980   -0.9956   -0.9921   -0.9877   -0.9823   -0.9759   -0.9686   -0.9603   -0.9511   -0.9409
+
+  Columns 963 through 975
+
+   -0.9298   -0.9178   -0.9048   -0.8910   -0.8763   -0.8607   -0.8443   -0.8271   -0.8090   -0.7902   -0.7705   -0.7501   -0.7290
+
+  Columns 976 through 988
+
+   -0.7071   -0.6845   -0.6613   -0.6374   -0.6129   -0.5878   -0.5621   -0.5358   -0.5090   -0.4818   -0.4540   -0.4258   -0.3971
+
+  Columns 989 through 1001
+
+   -0.3681   -0.3387   -0.3090   -0.2790   -0.2487   -0.2181   -0.1874   -0.1564   -0.1253   -0.0941   -0.0628   -0.0314   -0.0000
+
+clc
+doc plot
+plot(tInterval, sineArray)
+{Undefined function or variable 'sineArray'.
+} 
+plot(tInterval, sineArray, LineSpec)
+{Undefined function or variable 'sineArray'.
+} 
+
+omega =
+
+   31.4159
+
+plot(tInterval, sineArray, LineSpec)
+{Undefined function or variable 'LineSpec'.
+} 
+plot(tInterval, sineArray)
+
+doc hold
+
+omega =
+
+   31.4159
+
+help figure
+ <strong>figure</strong> Create figure window.
+    <strong>figure</strong>, by itself, creates a new figure window, and returns
+    its handle.
+  
+    <strong>figure</strong>(H) makes H the current figure, forces it to become visible,
+    and raises it above all other figures on the screen.  If Figure H
+    does not exist, and H is an integer, a new figure is created with
+    handle H.
+ 
+    GCF returns the handle to the current figure.
+ 
+    Execute GET(H) to see a list of figure properties and
+    their current values. Execute SET(H) to see a list of figure
+    properties and their possible values.
+ 
+    See also <a href="matlab:help subplot">subplot</a>, <a href="matlab:help axes">axes</a>, <a href="matlab:help gcf">gcf</a>, <a href="matlab:help clf">clf</a>.
+
+    <a href="matlab:doc figure">Reference page for figure</a>
+
+
+omega =
+
+   31.4159
+
+help axes
+ <strong>axes</strong> Create axes graphics object
+    <strong>axes</strong>, by itself, creates an axes graphics object in the current figure
+    using default property values.
+ 
+    <strong>axes</strong>(...,Name,Value) specifies axes properties using one or more
+    Name,Value pair arguments.
+ 
+    <strong>axes</strong>(AX) makes existing axes AX the current axes and brings the figure
+    containing it into focus.
+ 
+    <strong>axes</strong>(container,...) creates the axes in the figure, uipanel, or uitab
+    specified by container, instead of in the current figure.
+ 
+    H = <strong>axes</strong>(...) returns the axes object created.
+ 
+    Execute GET(H), where H is an axes object, to see a list of axes object
+    properties and their current values.
+    Execute SET(H) to see a list of axes object properties and legal
+    property values.
+ 
+    See also <a href="matlab:help subplot">subplot</a>, <a href="matlab:help axis">axis</a>, <a href="matlab:help figure">figure</a>, <a href="matlab:help gca">gca</a>, <a href="matlab:help cla">cla</a>.
+
+    <a href="matlab:doc axes">Reference page for axes</a>
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+    1.2566
+
+
+omega =
+
+    1.2566
+
+ axis(tMin tMax -1.5 1.5)
+           
+{Error: Unexpected MATLAB expression.
+} 
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   3.1416e+04
+
+
+omega =
+
+   3.1416e+04
+
+
+omega =
+
+    0.0314
+
+
+omega =
+
+    0.0314
+
+
+omega =
+
+   1.2566e+03
+
+
+omega =
+
+   1.2566e+03
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
+
+omega =
+
+   31.4159
+
