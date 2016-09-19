@@ -42,28 +42,28 @@
 
 % Step 1: Approximate the partial differential equation
 
-% dx/dt = -otherK((d^2x)/dx^2), substituting previous equations from Part1:
+% dx/dt = -kappa((d^2x)/dx^2), substituting previous equations from Part1:
 
-%(z(x+h,t) - z(x,t))/h + O(h) = -otherK((z(x+h)-2*z(x) + z(x-h))/(h^2)) 
-    % otherK is topographic diffusivity from Part 1: Step 1
+%(z(x+h,t) - z(x,t))/h + O(h) = -kappa((z(x+h)-2*z(x) + z(x-h))/(h^2)) 
+    % kappa is topographic diffusivity from Part 1: Step 1
     
     
 % Step 2: Solve for the value of the function at time t+k
 
-% (z(x+h,t+k) - z(x,t+k))/h + O(h) = -otherK((z(x+h)-2*z(x) + z(x-h))/(h^2))
+% (z(x+h,t+k) - z(x,t+k))/h + O(h) = -kappa((z(x+h)-2*z(x) + z(x-h))/(h^2))
 
-% (z(x+h,t+k) - z(x,t+k)) = h(-otherK((z(x+h)-2*z(x) +
+% (z(x+h,t+k) - z(x,t+k)) = h(-kappa((z(x+h)-2*z(x) +
 % z(x-h))/(h^2)) - O(h))
 
-% z(x,t+k) = -(h(-otherK((z(x+h)-2*z(x) + z(x-h))/(h^2)) - O(h)) - (z(x+h,t+k))
+% z(x,t+k) = -(h(-kappa((z(x+h)-2*z(x) + z(x-h))/(h^2)) - O(h)) - (z(x+h,t+k))
 
 
 %% Part 3: Implementing the numerical solution
 
 % Step 1: Define parameters and constants
 
-e = exp(1); % euiler's number
-otherK = 2*e^(-3); % [(m^2)/year]
+
+kappa = 2*e(-3); % [(m^2)/year]
 dt = 1; % dt = k, [year]
 dx = 1; % dx = h, [m]
 
@@ -104,12 +104,13 @@ for c = (t0+dt):dt:tMax
     % with outer loop.
     
     x = c;
-    -(h(-otherK((z(x+h)-2*z(x) + z(x-h))/(h^2)) - O(h)) - (z(x+h,t+k))) % RH side of equation from Part 2, Step 2
+    -(h(-kappa((z(x+h)-2*z(x) + z(x-h))/(h^2)) - O(h)) - (z(x+h,t+k))) % RH side of equation from Part 2, Step 2
     
    for d = 2:(nNode-1) 
-       
+       % this is where the change in kappa happens (kappa(x), k(ix)
+       kArray = [whatever values, 29 elements]
        h = d;
-       z(x,t+k) = -(h(-otherK((z(x+h)-2*z(x) + z(x-h))/(h^2)) - O(h)) - (z(x+h,t+k))) % finite difference equation? from Part 2, Step 2 
+       z(x,t+k) = -(h(-kappa((z(x+h)-2*z(x) + z(x-h))/(h^2)) - O(h)) - (z(x+h,t+k))) % finite difference equation? from Part 2, Step 2 
        
    end
 
@@ -128,11 +129,9 @@ legend('Profile, 100 years later','Location', 'northeastOutside') % updating leg
 % Since I was not able to plot my formulas, I could not discern what
 % varying the tMax function with the prescribed new values would look like.
 % However, I would imagine that the 1e2, 1e3, and 1e4 values would create a
-% slope that would retain more of the original profile (1e2 being
-% closest to original) since they are less than 100. Therefore, I would
-% expect 1e5 to have more 'slump' than tMax = 100, and 1e6 having the most.
+% slope that would show more change in profile with time.
 % This is in line with what little I know about erosion and sediment
 % movement.
 
-% Varying the k (otherK is my variable) would change the rate at which soil
+% Varying the k (kappa is my variable) would change the rate at which soil
 % moves from upslope to downslope, making the progression faster or slower.
